@@ -5,7 +5,8 @@ import ChatHeader from "./ChatHeader";
 
 import MessageInput from "./MessageInput";
 import MessagesLoadingSkeleton from "./MessagesLoadingSkeleton";
-import NoChatHistoryPlaceholder from "./NoChatHistoryPlaceholder";
+import NoChatHistoryPlaceholder from "./NoChatHistoryPlaceHolder";
+
 
 
 
